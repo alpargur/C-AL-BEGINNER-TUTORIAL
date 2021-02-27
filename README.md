@@ -1,5 +1,4 @@
 # Business Central AL-Beginner Tutorial
----
 This AL Project is an implementation of AL-Beginner Notebook created by "KRZYSZTOF BIALOWAS". The notebook is also included in the docs file. If you want to find more about you can visit his [website](http://www.mynavblog.com/2021/02/16/automated-tests-dont-listen-to-microsoft/).
 ## Project Notes & Steps
 ---
